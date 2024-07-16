@@ -1,7 +1,5 @@
 # ❤️ Heart Disease Predictor using XGBoost ✨
 
-![Heart](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
-
 Welcome to the Heart Disease Predictor repository! This project leverages the power of XGBoost and machine learning to predict the risk of heart disease.
 
 ## 📊 Project Overview
